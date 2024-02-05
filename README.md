@@ -1,5 +1,20 @@
 <h1 align="center">Olá 👋, eu sou Ruan gonçalves</h1>
-<h3 align="center">Olá! sou um Analista de Dados / Cientista de Dados / Dev front em formação, atualmente cursando Estatística. Tenho habilidades em R, Python, Power BI e SQL, e utilizo essas ferramentas para analisar e visualizar dados, transformando informações em insights valiosos para a tomada de decisão.--------------Hello! My name is ruan and I'm a Data Analyst / Data Scientist / Dev front in training, currently studying Statistics. I have skills in R, Python, Power BI and SQL, and I use these tools to analyze and visualize data, transforming information into valuable insights for decision making.</h3>
+<h3 align="center">Este repositório é uma demonstração abrangente das minhas habilidades em análise de dados, utilizando uma variedade de tecnologias essenciais. O projeto aborda a resolução de problemas do mundo real por meio da integração de Python, Power BI, R e SQL. Aqui está uma visão geral das principais áreas cobertas:
+
+Python:
+
+Exploração de dados e pré-processamento utilizando bibliotecas como Pandas e NumPy. Implementação de algoritmos de machine learning para análise preditiva e classificação. Visualizações interativas com Matplotlib e Seaborn.
+
+Power BI: 
+Desenvolvimento de dashboards dinâmicos para análise visual de dados. Integração de fontes de dados diversas para proporcionar uma visão holística. Implementação de medidas DAX para cálculos personalizados.
+
+R:
+
+Análise estatística avançada utilizando bibliotecas como ggplot2 e dplyr. Modelagem estatística e inferência para insights mais profundos. Integração de R com Python para uma análise combinada e abordagem de ponta a ponta.
+
+SQL:
+
+Criação de bancos de dados relacionais para armazenamento eficiente de dados. Consultas SQL complexas para extração de informações específicas. Otimização de consultas para melhorar o desempenho</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estatisticoo&label=Profile%20views&color=0e75b6&style=flat" alt="estatisticoo" /> </p>
 
