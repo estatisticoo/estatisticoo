@@ -7,7 +7,7 @@
 
 - 🌱 Estou atualmente aprendendo e me aprimorando em **Estatistica,python,sql,power bi,R**
 
-- 👨‍💻 Meus projetos estão disponiveis em [https://github.com/estatisticoo/Portifolio_-DataAnalytics)
+- 👨‍💻 Meus projetos estão disponiveis em [[https://github.com/estatisticoo/Portifolio_-DataAnalytics](https://github.com/estatisticoo?tab=repositories))
 
 - 📫 como me contactar **ruangon2021@outlook.com**
 
